@@ -1,3 +1,5 @@
+# [REFER TO GIST (ACTUAL STATE)](https://gist.github.com/Hammerill/64411eebf071b93396b7d310ba8d6776)
+
 # LiveArea Images specifications
 This document will guide you through making your LiveArea assets for Vita.
 
